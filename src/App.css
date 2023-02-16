@@ -1,0 +1,41 @@
+
+
+/* .App {
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position:relative;
+} */
+
+ .one {
+  display: flex;
+  justify-content: space-between;
+ }
+
+ .two {
+  display: flex;
+  justify-content: space-between;
+ }
+
+/* 
+#appl {
+  position: relative;
+}
+
+#1 {
+  position: absolute;
+    
+    top: 0px;
+    left: 0px;
+}
+
+#2 {
+  position: absolute;
+    
+    right: 0px;
+    top: 0px;
+}
+
+#3 {
+
+} */
